@@ -1,0 +1,17 @@
+{
+  "name": "COVID19 Vaccine Hotspot",
+  "version": "1.0",
+  "description": "Get your up to date news on COVID-19 Vaccines!",
+  "browser_action": {
+    "default_popup": "action_menu.html",
+    "default_icon":  {
+      "128": "icon_128.png"
+    },
+    "default_title": "COVID19 Vaccine Hotspot"
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": ["activeTab"],
+  "manifest_version": 2
+}
